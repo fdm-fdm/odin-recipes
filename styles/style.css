@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: grey;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 }
@@ -9,5 +9,5 @@ h1 {
 }
 
 .description {
-    font-size:18px;
+    font-size:24px;
 }
