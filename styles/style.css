@@ -18,7 +18,7 @@ ul {
     margin:0;
 }
 
-div, #header, #recipe-box,li {
+div, #header, #recipe-box, #recipe-list{
     padding: 5px;
     margin: 10px auto;
     border-radius: 15px;
